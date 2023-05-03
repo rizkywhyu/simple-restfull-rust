@@ -1,0 +1,10 @@
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\io_lifetimes-0141441d7f7885a4.rmeta: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\portability.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\traits.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\example_ffi.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\raw.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\views.rs
+
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\io_lifetimes-0141441d7f7885a4.d: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\portability.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\traits.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\example_ffi.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\raw.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\views.rs
+
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\lib.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\portability.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\traits.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\example_ffi.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\raw.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\views.rs:

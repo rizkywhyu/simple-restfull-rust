@@ -1,0 +1,10 @@
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\version_check-4741c729539b2d8b.rmeta: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\libversion_check-4741c729539b2d8b.rlib: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\version_check-4741c729539b2d8b.d: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs:

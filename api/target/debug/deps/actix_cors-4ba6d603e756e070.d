@@ -1,0 +1,10 @@
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\actix_cors-4ba6d603e756e070.rmeta: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\all_or_some.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\builder.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\error.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\inner.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\middleware.rs
+
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\actix_cors-4ba6d603e756e070.d: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\all_or_some.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\builder.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\error.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\inner.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\middleware.rs
+
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\lib.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\all_or_some.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\builder.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\error.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\inner.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-cors-0.6.4\src\middleware.rs:

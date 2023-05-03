@@ -1,0 +1,11 @@
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\cookie-a8ab06422319fb64.rmeta: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs
+
+c:\Users\Rizky_117986\Documents\kerja\belajar\tech_talk\api\target\debug\deps\cookie-a8ab06422319fb64.d: C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs
+
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs:
+C:\Users\Rizky_117986\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs:
